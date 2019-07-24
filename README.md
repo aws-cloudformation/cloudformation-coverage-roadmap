@@ -4,9 +4,9 @@ The AWS CloudFormation Public Coverage Roadmap
 
 ## Introduction
 
-This is a public roadmap focused on upcoming coverage support for CloudFormation. It is focused on ongoing feature additions to existing AWS services to be addressed by upcoming CloudFormation coverage releases. It represents a preview of the information we provide in our existing release history documentation . Knowing about our upcoming coverage additions and priorities helps our customers plan. We want to provide a way for our customers to help us ensure we are working on the most important requests. 
+This is a public roadmap focused on upcoming coverage support for CloudFormation. It is focused on coverage additions to existing AWS services to be addressed by upcoming CloudFormation releases. It represents a preview of the information we provide in our existing release history documentation. Knowing about our upcoming coverage additions and priorities helps our customers plan, and we want to provide a way for our customers to help us ensure we are working on the most important requests. 
 
-[See the roadmap »](https://github.com/aws/containers-roadmap/projects/1) (Change to own project file)
+[See the roadmap »](https://github.com/aws-cloudformation-coverage-roadmap/projects/1)
 
 ## Security disclosures
 
