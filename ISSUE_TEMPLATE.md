@@ -26,7 +26,7 @@ Should fall into the following categories:
 
    a) new service support is desired
    b) new resource type for an existing service is desired
-   c) new atttribute for an existing resource is desired 
+   c) new attribute for an existing resource is desired 
    d) new option for an existing attribute is desired 
    e) other coverage-related issue with the resource/attribute/option
 
@@ -40,7 +40,7 @@ Samples:
 Samples:
 #### In Create, it should include this and this, like the console.  Also include tag creation, or another thing that should be combined.
 #### in Update, change the attribute X, and it shouldn't require replacement, like the API. Should it require UpdateReplacePolicy?
-#### Any particular or uncommon Delete behavior? Whar are the expected options?
+#### Any particular or uncommon Delete behavior? What are the expected options?
 
 Feel free to describe other desired and relevant implementation details. 
 
