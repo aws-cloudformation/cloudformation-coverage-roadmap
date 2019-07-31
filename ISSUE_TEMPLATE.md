@@ -21,7 +21,7 @@ Samples:
 We are hoping that the title makes it easy for others to scan it quickly in kanban board or issue list. 
 
 ## 2. Scope of request 
-Whether a new API call requires a new attribure, or a new feature is supported and needs to be added to CloudFormation.  Be as descriptive as possible so that others can +1 your request if it applies to them.
+Whether a new API call requires a new attribute, or a new feature is supported and needs to be added to CloudFormation.  Be as descriptive as possible so that others can +1 your request if it applies to them.
 Should fall into the following categories:
 
    a) new service support is desired
