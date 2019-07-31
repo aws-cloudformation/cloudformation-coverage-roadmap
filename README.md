@@ -40,7 +40,7 @@ A: When in doubt, please create an issue! Although we’ll focus on coverage iss
 
 **Q: How can I request a feature be added to the roadmap?**
 
-A: We encourage you to open an issue, even if you’ve requested it before via other channels. All community-submitted issues will be reviewed by the roadmap maintainers. We’ve created a template to make it easy to open new issues. (Still to do)
+A: We encourage you to open an issue, even if you’ve requested it before via other channels. All community-submitted issues will be reviewed by the roadmap maintainers. We’ve created a template to make it easy to open new issues.
 
 **Q: Can I "+1" existing issues?**
 
