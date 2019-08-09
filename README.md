@@ -25,7 +25,7 @@ A: Because our main priority is security and operational stability, we cannot pr
 
 **Q: What do the roadmap categories mean?**
 
-* *Shipped* - should be obvious :)
+* *Shipped* - currently usable in CloudFormation templates
 * *Coming soon* - nearing completion, likely being planned for an upcoming coverage update release. Think a couple of weeks out, give or take.
 * *We're working on it* - in progress, but further out.  We might still be working through the implementation details, or scoping stuff out.
 * *Researching* - We're thinking about it. This might mean we're still evaluating designs and options, or thinking through how this should work. This is a great phase to give us feedback as to how you want to see something implemented! We’ll benefit from your specific use cases here.
