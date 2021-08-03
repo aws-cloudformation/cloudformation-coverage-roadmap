@@ -1,0 +1,21 @@
+name: Other Requests
+description: Use this form to submit a request which does not fall in existing categories.
+labels: 'other'
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to submit a request! Fill out the form below to provide us with info.
+  - type: textarea
+    attributes:
+      label: Resource Name
+      description: Name of the resource that the request applies to.
+      placeholder: "Please use the correct resource name format: AWS::<Service>::*"
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Details
+      description: Give as much details as possible for this request.
+    validations:
+      required: true
