@@ -9,7 +9,7 @@ body:
 - type: dropdown
   attributes:
     label: Name of the resource
-    description: What resource does this bug apply to?
+    description: What resource does this request apply to?
     options:
       - AWS::ACMPCA::Certificate
       - AWS::ACMPCA::CertificateAuthority

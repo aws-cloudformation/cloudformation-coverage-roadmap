@@ -1,6 +1,6 @@
 name: Enhancement Request
 description: Use this form to submit a enhancement request.
-labels: 'feature-request'
+labels: 'enhancement'
 body:
 - type: markdown
   attributes:
@@ -9,7 +9,7 @@ body:
 - type: dropdown
   attributes:
     label: Name of the resource
-    description: What resource does this bug apply to?
+    description: What resource does this request apply to?
     options:
       - AWS::ACMPCA::Certificate
       - AWS::ACMPCA::CertificateAuthority
@@ -551,12 +551,6 @@ body:
             c) new attribute for an existing resource is desired 
             d) new option for an existing attribute is desired 
             e) other coverage-related issue with the resource/attribute/option"
-  validations:
-    required: true
-- type: textarea
-  attributes:
-    label: Expected Behavior
-    description: Describe the expected behavior
   validations:
     required: true
 - type: textarea
