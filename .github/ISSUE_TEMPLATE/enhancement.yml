@@ -1,5 +1,5 @@
-name: Feature Request
-description: Use this form to submit a feature request.
+name: Enhancement Request
+description: Use this form to submit a enhancement request.
 labels: 'feature-request'
 body:
 - type: markdown
@@ -536,7 +536,7 @@ body:
     description: Specify resource name if you selected Other from the dropdown above
     placeholder: "Please use the correct resource name format: AWS::<Service>::*"
   validations:
-    required: true
+    required: false
 - type: textarea
   attributes:
     label: Description
