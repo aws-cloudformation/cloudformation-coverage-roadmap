@@ -46,6 +46,14 @@ A: We encourage you to open an issue, even if you’ve requested it before via o
 
 A: We strongly encourage you to vote on issues, as it helps us understand which issues will have the widest impact, but please don't leave comments saying "+1". Such comments generate noise for people receiving notifications, and issues can't be sorted by number of "+1" comments. Instead, leave a 👍 reaction, which is less noisy and can be used to sort issues for prioritization. To leave a reaction, navigate to the issue details page and add a reaction with the 😀 button on the post. There are six types of reactions supported (thumbs down "-1", confused, heart, watching, laugh, hooray, and thumbs up +1). We can typically do 8-10 items per month with all necessary regression testing, and we want you to help us decide which items will benefit you the most.
 
+## Community
+
+Join us on Discord! Connect & interact with CloudFormation developers &
+experts, find channels to discuss and get help for cfn-lint, CloudFormation registry, StackSets,
+Guard and more:
+
+[![Join our Discord](https://discordapp.com/api/guilds/981586120448020580/widget.png?style=banner3)](https://discord.gg/9zpd7TTRwq)
+
 ## License Summary
 
 This project is made available under the CC-BY-SA-4.0 license. See the LICENSE file.
