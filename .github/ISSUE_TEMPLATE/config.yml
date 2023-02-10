@@ -1,1 +1,5 @@
 blank_issues_enabled: false
+contact_links:
+  - name: Third Party (non-AWS) Resource Requests
+    url: https://github.com/aws-cloudformation/community-registry-extensions
+    about: Third-party CloudFormation resource requests can be submitted in our Community Registry Extensions repo.
