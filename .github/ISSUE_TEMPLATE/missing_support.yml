@@ -10,8 +10,9 @@ body:
   - type: dropdown
     attributes:
       label: Name of the resource
-      description: What resource does this request apply to?
+      description: What resource does this request apply to? If your resource is not listed, select "Other" and enter the resource name below.
       options:
+        - Other
         - AWS::ACMPCA::Certificate
         - AWS::ACMPCA::CertificateAuthority
         - AWS::ACMPCA::CertificateAuthorityActivation
@@ -1235,14 +1236,13 @@ body:
         - AWS::XRay::Group
         - AWS::XRay::ResourcePolicy
         - AWS::XRay::SamplingRule
-        - Other
     validations:
       required: true
   - type: input
     attributes:
       label: Resource name
-      description: Specify resource name if you selected Other from the dropdown above
-      placeholder: "Please use the correct resource name format: AWS::<Service>::*"
+      description: Required if you selected "Other" above. Use format AWS::Service::Resource
+      placeholder: "AWS::Service::Resource"
     validations:
       required: false
   - type: textarea
